@@ -1,10 +1,8 @@
-# **TransCanada Utilities Repository Rules**
+# **Quick Reference Guide**
 
 This document outlines the rules and guidelines for contributing to repositories in the **TransCanada Utilities** GitHub organization. Please adhere to these standards to maintain quality and consistency.
 
 ---
-
-## **Quick Reference Guide**
 
 ### **1. General Guidelines**
 - Use professional, inclusive language.
