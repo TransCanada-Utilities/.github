@@ -46,4 +46,4 @@ This document outlines the rules and guidelines for contributing to repositories
 ---
 
 ## **Contact**
-For questions or concerns, contact the **TransCanada Utilities Development Team** at `christopher.madukam@transcanadautilities.com`.
+For questions or concerns, contact the **TransCanada Utilities Development Team**.
